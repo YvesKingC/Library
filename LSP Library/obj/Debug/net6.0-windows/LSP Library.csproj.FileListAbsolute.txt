@@ -1,0 +1,52 @@
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\LSP Library.exe
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\LSP Library.deps.json
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\LSP Library.runtimeconfig.json
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\LSP Library.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\LSP Library.pdb
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP Library.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP_Library.FormHome.resources
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP_Library.FormInputPassword.resources
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP_Library.Properties.Resources.resources
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP Library.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP Library.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP Library.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP Library.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP Library.csproj.CopyComplete
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP Library.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\refint\LSP Library.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP Library.pdb
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP Library.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\ref\LSP Library.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP_Library.FormAdvancedSetting.resources
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\bin\Debug\net6.0-windows\BCrypt.Net-Next.dll
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP_Library.FormEditUser.resources
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP_Library.FormKatalogBuku.resources
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP_Library.FormAnggotaBaru.resources
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP_Library.FormPeminjaman.resources
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP_Library.FormPengembalian.resources
+C:\Users\ASUS\source\repos\LSP Library\LSP Library\obj\Debug\net6.0-windows\LSP_Library.FormLogPeminjaman.resources

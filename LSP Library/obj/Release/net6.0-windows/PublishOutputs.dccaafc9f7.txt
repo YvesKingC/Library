@@ -1,0 +1,30 @@
+C:\Users\ASUS\Documents\Kulia\LSP Test\LSP Library.exe
+C:\Users\ASUS\Documents\Kulia\LSP Test\LSP Library.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\LSP Library.deps.json
+C:\Users\ASUS\Documents\Kulia\LSP Test\LSP Library.runtimeconfig.json
+C:\Users\ASUS\Documents\Kulia\LSP Test\LSP Library.pdb
+C:\Users\ASUS\Documents\Kulia\LSP Test\BCrypt.Net-Next.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\BouncyCastle.Cryptography.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\Google.Protobuf.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\MySql.Data.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\System.IO.Pipelines.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\System.Security.Permissions.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\System.Text.Json.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\System.Windows.Extensions.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\ZstdSharp.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\runtimes\win-x64\native\comerr64.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Documents\Kulia\LSP Test\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
